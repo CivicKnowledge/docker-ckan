@@ -22,3 +22,4 @@ Run a server that accesses the volumes:
 ```
 docker run --rm -t -i --volumes-from ckan ubuntu /bin/bash
 ```
+The CKAN source directory is ``/opt/ckan/src/ckan``
